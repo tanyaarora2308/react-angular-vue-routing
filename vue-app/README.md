@@ -1,4 +1,4 @@
-# react-ng-spa-app
+# vue-app
 
 ## Project setup
 
