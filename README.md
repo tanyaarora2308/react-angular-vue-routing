@@ -1,4 +1,4 @@
-# react-ng-spa-app
+# react-angular-vue-routing
 
 ## Project setup
 
